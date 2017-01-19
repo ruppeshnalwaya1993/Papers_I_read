@@ -1,4 +1,3 @@
-# Papers I read
 # Papers I have read
 
 - UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION (https://arxiv.org/abs/1611.03530)
