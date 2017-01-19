@@ -1,3 +1,4 @@
 # Papers I have read
 
-- UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION (https://arxiv.org/abs/1611.03530)
+- Understanding deep learning requires rethinking generalization (https://arxiv.org/abs/1611.03530)
+- Image-to-Image Translation with Conditional Adversarial Networks (https://arxiv.org/abs/1611.07004)
